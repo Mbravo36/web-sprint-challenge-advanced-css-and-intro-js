@@ -151,8 +151,12 @@ button:hover{
 .bio{
     font-size: 1.3rem;
 }
+.title-container{
+    width: 100%;
+}
 .title-container div{
     width: 100%;
+    margin-bottom: auto;
 }
 .title-container hr{
     width:100%;
